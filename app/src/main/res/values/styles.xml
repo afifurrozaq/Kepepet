@@ -1,0 +1,43 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/withe</item>
+        <item name="colorPrimaryDark">@color/active</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="windowActionBar">true</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="AppTheme.Button" parent="Widget.AppCompat.Button.Colored">
+        <item name="colorButtonNormal">@color/colorPrimaryDark</item>
+        <item name="android:textColor">@color/withe</item>
+    </style>
+
+    <style name="AppTheme.Button2" parent="Widget.AppCompat.Button.Colored">
+        <item name="colorButtonNormal">@color/active</item>
+        <item name="android:textColor">@color/withe</item>
+    </style>
+
+    <style name="AppTheme.Button3" parent="Widget.AppCompat.Button.Colored">
+        <item name="colorButtonNormal">@color/indigo</item>
+        <item name="android:textColor">@color/withe</item>
+    </style>
+
+    <style name="Splashscreen" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">true</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="MyCheckBox" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">@color/indigo</item>
+        <item name="colorControlActivated">@color/active</item>
+    </style>
+</resources>

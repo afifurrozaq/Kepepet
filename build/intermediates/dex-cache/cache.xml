@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/5142fcbe283bb41e1d44533938b219c7119a7e53/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_94a859d530dda3774de85775d227c7b3815f5852/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/c553828aca1b2230b29cc4d2ada826afa4cc61fb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e221c48089173c902ca9f464eadacfdbcabb0ade/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/8a0cc0d1b99a15172c9758ea70a6476574a97d62/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_4637e0322ce57f1ad24b373c8bb31c57d48bc997/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/2b1f16d1a262ddb145d7f2f30b6f68ccd29e333d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_29fff3ef2dfec5291bd4f2d244c10a14e50fbb26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/1cdf9d2a375f07a85d7b920c230d90ab49d23fc7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_056d67eb3a2146317c76d8e22acc4242f9185ad4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/8a0cc0d1b99a15172c9758ea70a6476574a97d62/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_932446d36147c9634a9bb6126cb625b96864d18d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/efb5959981668843e1f081978017db5210b447d6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ddd5a28f6026a0d86468f6b20f1e362794e42a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/fb9f845d79f7a38e27f59712117e98ef1ae70b4b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d95f5cf81991039584c81fe0fef913124d59413c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/d9421920707944afc8276b4e0c8acc09f6a0d5b8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_77e5db63fd0580a32b6ed17c284c9f56e1452aae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/8765b0e3404cef1c8c029f17aef2c3ec14ae0906/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0a6e0632cab457a68c0b2edac33f28282abfa0d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/e2f751d04018fbccddc13c524be68581142bb8fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9d34dca2a6677b829a4aa671c3da028f55029a45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/3e80e623d818e1107e654795fa612aa80417f047/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f9cb0bba1e1d45213c15119884fa3ea98ce69e3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/2b1f16d1a262ddb145d7f2f30b6f68ccd29e333d/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_1748e4b4c86103649a5c462dc8fb25fdb50af3ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/bc068e9a6000607579076d8e820c3ed33493806b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ee680c6ed9bbbe97c3ff929b6b59b54bd04befc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/d0cb1da7bd32f9090f13cb6776bbccf3fdb44e45/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b2bd92f91a8ebf43ac8be55857e124840d5933c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/8cca3e3398e48680748c8b8582552aefe63799cb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b642954c93dea0520ccab56241a44fd0926e0b68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/e4f8e3c96ef982512fdacc9531a3cc97ef274f11/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_705f05cb2c787c85e3580b99eddbd63e720afb4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/af691486b8763e3d7275a9263689525f78c89e8d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d961d79428e95dfe9c513eaaddc1e4c037d0fb4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/68ab502eb1f05320c77b278d5a2f68fe31281923/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_21d62d7bfd98bd73ead3986d53647f4b90e29663/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b509ee13e4096404a4df343c80d4567024879d17">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7cf3fe556978280a8438f5e96ed1e87c8b49aed9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha7/constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha7_d34452e1145a91dbad2b06cff272036d9c7a78e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/2b525648e4ba04aed5d63b3ecb6dcc5cf090ac9d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a51c0cc5915d960c4fc3b18c435938229899fc0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/f5110dab55c6bb62199998a8e17b2c2cdf36c378/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_60b4f4b949b648dc2af0aa7f1a13bb90204edeee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/df3a748d3492aa95948990425f1247a9d39fca08/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_ca34ace6197e860704cff796581f6d3ee3e19431/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/20b6bde2e97da5935bd75db7ea24316e612d79e6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ba112451b67679bbdfdbd8689d76ce2d162ed556/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/8cca3e3398e48680748c8b8582552aefe63799cb/output/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_53e220e80c54dd7e6b996668a4fdd3f8b1b7db5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/e749254fcf437b4156fedae5a9cc396f3316f0bb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_32b2fc577dd4a03a8ff15986331ddb6713069412/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/76b11cd941263401fb37081402f3ee54cf439125/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8461820b59e48e7b157e40096c2b0304803c4383/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/95ec06908beab50058555f00b2aa57e4d4c5604c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_313f2287bf760c9a3803bdc794355fabb9a84943/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/df3a748d3492aa95948990425f1247a9d39fca08/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a9b412796e8b76cd457dba1ca4600fb4a282b6cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/c960efbd4327553c848bd14fbec0990323230f24/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fb94d07a1f24e4ac7675c27190576c33f0b7c56a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/fd0567fb80d56bd2ab7080ee8bb32f6e0a185874/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4346658728b5fe31ea3ba30b31edabd3cfc6ddff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/c5eb2e83fa84f0268a18c3ae9bc37165ad8956c4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c7f6e6f01de735f7775dc3f1fd7cb8a4e5f7c66d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/beb7046fb55955e2f0be78de9e82a9a491372c52/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7d8eb82d230d349a1c966c08bf2d696ed92883a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/4f812dffad7fb877db20ddf400f9f6c5290fe06f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b463c7face9d0e56fc57d167f286d0dbc4a198d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/179dc206b04f2526dd582652db2600ae92d90dc3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec640cc215d0a8140dac6f16e64d47219c63cf84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/313e03c1173282e5457e75dfe6284d019d34430d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c4308ffce932ae0cf57b333359060f1b2534c9e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/54dc5da186da9c7af5aebd71168d1dfd27f14468/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_285df4de8680f74ec079a0d48bc8d3dd1d6f041a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/da6332e76f8021fdfeae206557eccaa51275db01/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d759e8ec142c370b48bed0c402f9f0b0b0250213/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/efb5959981668843e1f081978017db5210b447d6/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_9535bc85066edf48468e1fb75fbf557cb933a829/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/938440540d6e9b01a68b8884d8a64fedbcb453e3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6cf8e25232074fcc3f276a2e236929ddbc018804/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/1bf684fdab05369b0f354d7c5bb8b5849a9062db/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_96e50b480a55e5482d3782dc376db42e154901ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/dc2eb51559a8264b97a7e42eb38474897184a1da/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_097e061f3cbaf9ab6224c6bf5b2063b0399ab607/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_53411709c8a69ce98b3ef8dc133f3474b4511a10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/afifur/.android/build-cache/de18e083ed2c9da1e2c1d5d559891943e9a332fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b82e6bf856883f7604a1f86457e02fbbc2d0d7b/classes.dex" />
+    </item>
+
+</items>

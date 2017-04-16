@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/home/afifur/.android/build-cache/d0cb1da7bd32f9090f13cb6776bbccf3fdb44e45/output/res/anim-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/afifur/.android/build-cache/d0cb1da7bd32f9090f13cb6776bbccf3fdb44e45/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/afifur/.android/build-cache/d0cb1da7bd32f9090f13cb6776bbccf3fdb44e45/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

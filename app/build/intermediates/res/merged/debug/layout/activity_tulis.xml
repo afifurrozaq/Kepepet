@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.afifur.kepepet.Tulis">
+    <android.support.design.widget.TabLayout
+        android:id="@+id/tabLayout"
+        android:layout_below="@id/tabLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/indigo"
+        android:scrollbars="horizontal"
+        app:tabGravity="center"
+        app:tabMode="scrollable" >
+    </android.support.design.widget.TabLayout>
+
+    <EditText
+        android:id="@+id/textArea_information"
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
+        android:gravity="top|left"
+        android:inputType="textMultiLine"
+        android:overScrollMode="always"
+        android:scrollbarStyle="insideInset"
+        android:scrollbars="vertical"
+        android:lines="10"
+        android:background="@drawable/border"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:scrollHorizontally="false"
+        tools:layout_editor_absoluteY="50dp"
+        tools:layout_editor_absoluteX="8dp"
+        android:layout_marginTop="37dp"
+        android:layout_below="@+id/tabLayout"
+        android:layout_centerHorizontal="true" />
+
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/round_button"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="SUBMIT"
+        android:textColor="#fff"
+        android:layout_marginTop="48dp"
+        android:layout_below="@+id/textArea_information"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

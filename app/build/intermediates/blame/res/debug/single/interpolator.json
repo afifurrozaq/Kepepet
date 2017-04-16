@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/home/afifur/.android/build-cache/525ee85b3beca759151d4b2330860c4e5dc320b8/output/res/interpolator/mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/home/afifur/.android/build-cache/525ee85b3beca759151d4b2330860c4e5dc320b8/output/res/interpolator/mr_fast_out_slow_in.xml"
+    }
+]

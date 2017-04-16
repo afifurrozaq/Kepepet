@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/afifur/AndroidStudioProjects/Kepepet/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/home/afifur/AndroidStudioProjects/Kepepet/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]

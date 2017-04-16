@@ -1,0 +1,7 @@
+#Sun Apr 16 18:26:21 WIB 2017
+base.0=/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_53411709c8a69ce98b3ef8dc133f3474b4511a10
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7cf3fe556978280a8438f5e96ed1e87c8b49aed9/classes.dex
+base.1=/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7cf3fe556978280a8438f5e96ed1e87c8b49aed9
+file.0=/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_53411709c8a69ce98b3ef8dc133f3474b4511a10/classes.dex

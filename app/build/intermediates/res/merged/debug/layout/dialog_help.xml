@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/custom_dialog_layout_design_user_input"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/dialogTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Information detail"
+        android:paddingBottom="25px"
+        android:layout_gravity="center"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+
+
+    <Button
+        android:id="@+id/button_psn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ic_sms"
+        android:text="Pesan"
+        android:theme="@style/AppTheme.Button3"/>
+
+    <Button
+        android:id="@+id/button_tlp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Telphone"
+        android:drawableLeft="@drawable/ic_phone"
+        android:theme="@style/AppTheme.Button3"/>
+</LinearLayout>
