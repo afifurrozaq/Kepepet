@@ -70,6 +70,7 @@
         <activity android:name="com.example.afifur.kepepet.Proses" />
         <activity android:name="com.example.afifur.kepepet.Rating" />
         <activity android:name="com.example.afifur.kepepet.Tulis" />
+        <activity android:name="com.example.afifur.kepepet.Login" />
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
             android:name="com.google.android.gms.ads.AdActivity"

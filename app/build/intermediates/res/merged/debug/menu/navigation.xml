@@ -11,5 +11,10 @@
         android:icon="@drawable/ic_help_black_24dp"
         android:title="@string/title_dashboard" />
 
+    <item
+        android:id="@+id/navigation_coba"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/title_notifications" />
+
 
 </menu>

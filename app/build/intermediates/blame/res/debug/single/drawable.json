@@ -28,6 +28,10 @@
         "source": "/home/afifur/.android/build-cache/af691486b8763e3d7275a9263689525f78c89e8d/output/res/drawable/abc_switch_thumb_material.xml"
     },
     {
+        "merged": "/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/res/merged/debug/drawable/acc.png",
+        "source": "/home/afifur/AndroidStudioProjects/Kepepet/app/src/main/res/drawable/acc.png"
+    },
+    {
         "merged": "/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
         "source": "/home/afifur/.android/build-cache/af691486b8763e3d7275a9263689525f78c89e8d/output/res/drawable/notification_bg_low.xml"
     },
@@ -58,6 +62,10 @@
     {
         "merged": "/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
         "source": "/home/afifur/.android/build-cache/af691486b8763e3d7275a9263689525f78c89e8d/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/res/merged/debug/drawable/pass.png",
+        "source": "/home/afifur/AndroidStudioProjects/Kepepet/app/src/main/res/drawable/pass.png"
     },
     {
         "merged": "/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_closed_caption.xml",
@@ -398,6 +406,10 @@
     {
         "merged": "/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
         "source": "/home/afifur/.android/build-cache/af691486b8763e3d7275a9263689525f78c89e8d/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/res/merged/debug/drawable/login.png",
+        "source": "/home/afifur/AndroidStudioProjects/Kepepet/app/src/main/res/drawable/login.png"
     },
     {
         "merged": "/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_light.xml",
