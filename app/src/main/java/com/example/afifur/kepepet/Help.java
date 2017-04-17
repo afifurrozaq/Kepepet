@@ -42,6 +42,13 @@ public class Help extends AppCompatActivity {
                 AlertDialog.Builder alertDialogBuilderUserInput = new AlertDialog.Builder(c);
                 alertDialogBuilderUserInput.setView(mView);
               final Button BtnPsn = (Button) mView.findViewById(R.id.button_psn);
+                final Button Btntlp = (Button) mView.findViewById(R.id.button_tlp);
+               final TextView tittle = (TextView) mView.findViewById(R.id.dialogTitle);
+                String customFont = "futura.ttf";
+                Typeface typeface = Typeface.createFromAsset(getAssets(), customFont);
+                BtnPsn.setTypeface(typeface);
+                Btntlp.setTypeface(typeface);
+                tittle.setTypeface(typeface);
                 BtnPsn.setOnClickListener(new Button.OnClickListener() {
                     public void onClick(View v) {
                         Intent sendIntent = new Intent(getApplicationContext(), Tulis.class);
@@ -75,6 +82,10 @@ public class Help extends AppCompatActivity {
                 case R.id.navigation_dashboard:
                     Intent i = new Intent(getApplicationContext(), Help.class);
                     startActivity(i);
+                    return true;
+                case R.id.navigation_coba:
+                    Intent k = new Intent(getApplicationContext(), Profile.class);
+                    startActivity(k);
                     return true;
             }
             return false;

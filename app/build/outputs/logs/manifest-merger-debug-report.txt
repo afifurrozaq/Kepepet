@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/afifur/AndroidStudioProjects/Kepepet/app/src/main/AndroidManifest.xml:2:1-60:12
+ADDED from /home/afifur/AndroidStudioProjects/Kepepet/app/src/main/AndroidManifest.xml:2:1-62:12
 	package
 		ADDED from /home/afifur/AndroidStudioProjects/Kepepet/app/src/main/AndroidManifest.xml:3:5-41
 		INJECTED from /home/afifur/AndroidStudioProjects/Kepepet/app/src/main/AndroidManifest.xml
@@ -22,7 +22,7 @@ ADDED from /home/afifur/AndroidStudioProjects/Kepepet/app/src/main/AndroidManife
 	android:name
 		ADDED from /home/afifur/AndroidStudioProjects/Kepepet/app/src/main/AndroidManifest.xml:11:22-66
 application
-ADDED from /home/afifur/AndroidStudioProjects/Kepepet/app/src/main/AndroidManifest.xml:13:5-58:19
+ADDED from /home/afifur/AndroidStudioProjects/Kepepet/app/src/main/AndroidManifest.xml:13:5-60:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] /home/afifur/.android/build-cache/d9421920707944afc8276b4e0c8acc09f6a0d5b8/output/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:25.0.0] /home/afifur/.android/build-cache/d0cb1da7bd32f9090f13cb6776bbccf3fdb44e45/output/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:transition:25.0.0] /home/afifur/.android/build-cache/313e03c1173282e5457e75dfe6284d019d34430d/output/AndroidManifest.xml:22:5-20
@@ -93,14 +93,14 @@ category#android.intent.category.LAUNCHER
 ADDED from /home/afifur/AndroidStudioProjects/Kepepet/app/src/main/AndroidManifest.xml:29:17-77
 	android:name
 		ADDED from /home/afifur/AndroidStudioProjects/Kepepet/app/src/main/AndroidManifest.xml:29:27-74
-activity#com.example.afifur.kepepet.MainActivity
+activity#com.example.afifur.kepepet.Login
 ADDED from /home/afifur/AndroidStudioProjects/Kepepet/app/src/main/AndroidManifest.xml:32:9-35:52
 	android:screenOrientation
 		ADDED from /home/afifur/AndroidStudioProjects/Kepepet/app/src/main/AndroidManifest.xml:35:13-49
 	android:label
 		ADDED from /home/afifur/AndroidStudioProjects/Kepepet/app/src/main/AndroidManifest.xml:34:13-45
 	android:name
-		ADDED from /home/afifur/AndroidStudioProjects/Kepepet/app/src/main/AndroidManifest.xml:33:13-41
+		ADDED from /home/afifur/AndroidStudioProjects/Kepepet/app/src/main/AndroidManifest.xml:33:13-34
 meta-data#com.google.android.geo.API_KEY
 ADDED from /home/afifur/AndroidStudioProjects/Kepepet/app/src/main/AndroidManifest.xml:45:9-47:55
 	android:value
@@ -133,10 +133,18 @@ activity#com.example.afifur.kepepet.Tulis
 ADDED from /home/afifur/AndroidStudioProjects/Kepepet/app/src/main/AndroidManifest.xml:56:9-43
 	android:name
 		ADDED from /home/afifur/AndroidStudioProjects/Kepepet/app/src/main/AndroidManifest.xml:56:19-40
-activity#com.example.afifur.kepepet.Login
-ADDED from /home/afifur/AndroidStudioProjects/Kepepet/app/src/main/AndroidManifest.xml:57:9-52
+activity#com.example.afifur.kepepet.MainActivity
+ADDED from /home/afifur/AndroidStudioProjects/Kepepet/app/src/main/AndroidManifest.xml:57:9-50
 	android:name
-		ADDED from /home/afifur/AndroidStudioProjects/Kepepet/app/src/main/AndroidManifest.xml:57:19-40
+		ADDED from /home/afifur/AndroidStudioProjects/Kepepet/app/src/main/AndroidManifest.xml:57:19-47
+activity#com.example.afifur.kepepet.Register
+ADDED from /home/afifur/AndroidStudioProjects/Kepepet/app/src/main/AndroidManifest.xml:58:9-46
+	android:name
+		ADDED from /home/afifur/AndroidStudioProjects/Kepepet/app/src/main/AndroidManifest.xml:58:19-43
+activity#com.example.afifur.kepepet.Profile
+ADDED from /home/afifur/AndroidStudioProjects/Kepepet/app/src/main/AndroidManifest.xml:59:9-54
+	android:name
+		ADDED from /home/afifur/AndroidStudioProjects/Kepepet/app/src/main/AndroidManifest.xml:59:19-42
 uses-sdk
 INJECTED from /home/afifur/AndroidStudioProjects/Kepepet/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] /home/afifur/.android/build-cache/d9421920707944afc8276b4e0c8acc09f6a0d5b8/output/AndroidManifest.xml:5:5-7:41

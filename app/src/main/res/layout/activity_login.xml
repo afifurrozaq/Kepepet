@@ -5,7 +5,7 @@
     android:layout_height="match_parent" >
 
     <ImageView
-        android:src="@drawable/login"
+        android:src="@drawable/log"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
         android:scaleType="fitXY"/>
@@ -18,7 +18,9 @@
         android:paddingLeft="24dp"
         android:paddingRight="24dp"
         android:layout_centerVertical="true"
-        android:layout_alignParentStart="true">
+        android:layout_alignParentStart="true"
+        android:id="@+id/linearLayout2"
+        android:weightSum="1">
 
 
         <!-- Email Label -->
@@ -27,22 +29,16 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:inputType="textEmailAddress"
-                android:hint="Email"
-                android:drawableLeft="@drawable/pass"/>
+                android:hint=" Email"
+                android:drawableLeft="@drawable/email"/>
 
-        <!-- Password Label -->
-        <android.support.design.widget.TextInputLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="8dp"
-            android:layout_marginBottom="8dp">
+
             <EditText android:id="@+id/input_password"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:inputType="textPassword"
-                android:hint="Password"
-                android:drawableLeft="@drawable/acc"/>
-        </android.support.design.widget.TextInputLayout>
+                android:hint=" Password"
+                android:drawableLeft="@drawable/password"/>
 
         <android.support.v7.widget.AppCompatButton
             android:id="@+id/btn_login"
@@ -52,25 +48,47 @@
             android:layout_marginBottom="24dp"
             android:padding="12dp"
             android:text="Login"
+            android:textStyle="bold"
             android:theme="@style/AppTheme.Button3"/>
 
-        <TextView android:id="@+id/link_forgot"
+        <TextView
+            android:id="@+id/link_forgot"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="24dp"
+            android:layout_weight="0.11"
+            android:gravity="center"
             android:text="Forgot Password ? "
-            android:gravity="center"
-            android:textSize="16dip"/>
+            android:textSize="16dip"
+            android:textStyle="bold" />
 
-        <TextView android:id="@+id/link_signup"
+        <TextView
+            android:id="@+id/text_signup"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="24dp"
-            android:text="Don't have an account ? REGISTER"
+            android:layout_marginRight="55dp"
             android:gravity="center"
-            android:textSize="16dip"/>
+            android:text="Don't have an account ?"
+            android:textStyle="bold"
+            android:textSize="16dip" />
+
+
 
     </LinearLayout>
+
+    <TextView
+        android:id="@+id/link_signup"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="23dp"
+        android:layout_marginLeft="192dp"
+        android:gravity="center"
+        android:textColor="@color/active"
+        android:textStyle="bold"
+        android:text="REGISTER"
+        android:textSize="16dip"
+        android:layout_alignBottom="@+id/linearLayout2" />
 
 
 </RelativeLayout>

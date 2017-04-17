@@ -14,16 +14,14 @@
     </android.support.design.widget.AppBarLayout>
 
     <include layout="@layout/content" />
+
     <android.support.design.widget.BottomNavigationView
         android:id="@+id/navigation"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom"
-        android:background="@color/indigo"
-        app:menu="@menu/navigation" />
-        <!--android:background="?android:attr/windowBackground"-->
-
-
-
+        app:menu="@menu/navigation"
+        style="@style/BottomNavigation"/>
+    <!--android:background="?android:attr/windowBackground"-->
 
 </android.support.design.widget.CoordinatorLayout>

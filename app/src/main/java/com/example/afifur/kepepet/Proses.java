@@ -55,6 +55,10 @@ public class Proses extends AppCompatActivity {
                     Intent i = new Intent(getApplicationContext(), Help.class);
                     startActivity(i);
                     return true;
+                case R.id.navigation_coba:
+                    Intent k = new Intent(getApplicationContext(), Profile.class);
+                    startActivity(k);
+                    return true;
             }
             return false;
         }

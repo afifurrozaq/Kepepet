@@ -30,7 +30,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MainActivity"
+            android:name=".Login"
             android:label="@string/app_name"
             android:screenOrientation="portrait" />
 
@@ -54,7 +54,9 @@
         <activity android:name=".Proses" />
         <activity android:name=".Rating" />
         <activity android:name=".Tulis" />
-        <activity android:name=".Login"></activity>
+        <activity android:name=".MainActivity" />
+        <activity android:name=".Register" />
+        <activity android:name=".Profile"></activity>
     </application>
 
 </manifest>

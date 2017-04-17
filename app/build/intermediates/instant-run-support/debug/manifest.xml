@@ -46,7 +46,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.afifur.kepepet.MainActivity"
+            android:name="com.example.afifur.kepepet.Login"
             android:label="@string/app_name"
             android:screenOrientation="portrait" />
 
@@ -70,7 +70,9 @@
         <activity android:name="com.example.afifur.kepepet.Proses" />
         <activity android:name="com.example.afifur.kepepet.Rating" />
         <activity android:name="com.example.afifur.kepepet.Tulis" />
-        <activity android:name="com.example.afifur.kepepet.Login" />
+        <activity android:name="com.example.afifur.kepepet.MainActivity" />
+        <activity android:name="com.example.afifur.kepepet.Register" />
+        <activity android:name="com.example.afifur.kepepet.Profile" />
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
             android:name="com.google.android.gms.ads.AdActivity"

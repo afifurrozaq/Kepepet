@@ -780,7 +780,7 @@
     <string name="title_activity_maps">Map</string>
     <string name="title_dashboard">About Us</string>
     <string name="title_home">Home</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_notifications">Profile</string>
     <string name="wallet_buy_button_place_holder">Buy with Google</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
@@ -791,7 +791,7 @@
         <item name="android:windowExitAnimation">@anim/design_bottom_sheet_slide_out</item>
     </style>
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        
+        <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/withe</item>
         <item name="colorPrimaryDark">@color/active</item>
         <item name="colorAccent">@color/colorAccent</item>
@@ -1823,6 +1823,12 @@
         <item name="tabBackground">?attr/selectableItemBackground</item>
         <item name="tabTextAppearance">@style/TextAppearance.Design.Tab</item>
         <item name="tabSelectedTextColor">?android:textColorPrimary</item>
+    </style>
+    <style name="BottomNavigation">
+        <item name="android:background">@color/withe</item>
+        <item name="itemBackground">@drawable/item_bg</item>
+        <item name="itemIconTint">@drawable/style_bottom</item>
+        <item name="itemTextColor">@drawable/style_bottom</item>
     </style>
     <style name="MyCheckBox" parent="Theme.AppCompat.Light">
         <item name="colorControlNormal">@color/indigo</item>

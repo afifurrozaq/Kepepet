@@ -30,104 +30,47 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:gravity="center"
-        android:padding="10dp"
-        >
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/tabLayout"
+        android:layout_marginTop="11dp"
+        android:orientation="vertical"
+        android:paddingLeft="24dp"
+        android:paddingRight="24dp"
+        android:paddingTop="56dp">
+
+        <!--  Name Label -->
         <ImageView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/ban"
             android:layout_gravity="center"
-
-            />
-    </LinearLayout>
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:gravity="center"
-        >
-
-    </LinearLayout>
-
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:padding="10dp"
-        >
-
-        <TextView
-            android:id="@+id/textView"
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:text="Nama         : "
-            android:gravity="center"
+            android:src="@drawable/ban"
 
             />
 
         <EditText
-            android:layout_width="wrap_content"
+            android:id="@+id/input_name"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Mukidi"
-            />
+            android:drawableLeft="@drawable/name"
+            android:inputType="textCapWords"
+            android:text=" Mukidi" />
 
-
-    </LinearLayout>
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:padding="10dp"
-
-        >
-
-        <TextView
-            android:id="@+id/textView3"
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:text="No. Telpon : "
-            android:gravity="center"
-
-            />
+        <!-- Email Label -->
+        <EditText
+            android:id="@+id/input_phone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/phone"
+            android:inputType="textPhonetic"
+            android:text=" +62 867688787" />
 
         <EditText
-            android:layout_width="wrap_content"
+            android:id="@+id/input_email"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="08908090800909"
-            />
-
-
-    </LinearLayout>
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:padding="10dp"
-        >
-
-        <TextView
-            android:id="@+id/textView6"
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:text="Alamat       : "
-            android:gravity="center"
-
-            />
-
-        <EditText
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Jalan Tanjung No. 12 Malang"
-            />
-
-
-    </LinearLayout>
-
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:padding="10dp">
+            android:drawableLeft="@drawable/email"
+            android:inputType="textEmailAddress"
+            android:text=" Jl. Sumber Sari gang 7" />
 
         <Button
             android:id="@+id/button2"
@@ -140,7 +83,9 @@
 
 
 
+
     </LinearLayout>
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -165,8 +110,9 @@
             android:text="SMS"
             android:theme="@style/AppTheme.Button2" />
 
-
     </LinearLayout>
+
+
 
     <include
         layout="@layout/app_bar"

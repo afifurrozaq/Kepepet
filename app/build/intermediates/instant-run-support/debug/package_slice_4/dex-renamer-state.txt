@@ -1,4 +1,4 @@
-#Mon Apr 17 15:01:26 WIB 2017
+#Mon Apr 17 23:10:19 WIB 2017
 base.0=/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
 renamed.0=classes.dex
 file.0=/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex

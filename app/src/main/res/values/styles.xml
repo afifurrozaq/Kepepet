@@ -40,4 +40,11 @@
         <item name="colorControlNormal">@color/indigo</item>
         <item name="colorControlActivated">@color/active</item>
     </style>
+
+    <style name="BottomNavigation">
+        <item name="android:background">@color/withe</item>
+        <item name="itemBackground">@drawable/item_bg</item>
+        <item name="itemIconTint">@drawable/style_bottom</item>
+        <item name="itemTextColor">@drawable/style_bottom</item>
+    </style>
 </resources>

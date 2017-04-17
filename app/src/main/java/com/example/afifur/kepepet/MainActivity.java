@@ -115,7 +115,7 @@ public class MainActivity extends AppCompatActivity {
                     startActivity(i);
                     return true;
                 case R.id.navigation_coba:
-                    Intent k = new Intent(getApplicationContext(), Login.class);
+                    Intent k = new Intent(getApplicationContext(), Profile.class);
                     startActivity(k);
                     return true;
             }

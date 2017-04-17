@@ -76,6 +76,10 @@
         "source": "/home/afifur/AndroidStudioProjects/Kepepet/app/src/main/res/layout/activity_splash.xml"
     },
     {
+        "merged": "/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/res/merged/debug/layout/activity_profile.xml",
+        "source": "/home/afifur/AndroidStudioProjects/Kepepet/app/src/main/res/layout/activity_profile.xml"
+    },
+    {
         "merged": "/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
         "source": "/home/afifur/.android/build-cache/af691486b8763e3d7275a9263689525f78c89e8d/output/res/layout/abc_action_menu_layout.xml"
     },
@@ -266,6 +270,10 @@
     {
         "merged": "/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
         "source": "/home/afifur/.android/build-cache/af691486b8763e3d7275a9263689525f78c89e8d/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/res/merged/debug/layout/activity_register.xml",
+        "source": "/home/afifur/AndroidStudioProjects/Kepepet/app/src/main/res/layout/activity_register.xml"
     },
     {
         "merged": "/home/afifur/AndroidStudioProjects/Kepepet/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",

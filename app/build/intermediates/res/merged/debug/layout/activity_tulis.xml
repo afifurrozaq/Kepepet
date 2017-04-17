@@ -16,6 +16,18 @@
         app:tabMode="scrollable" >
     </android.support.design.widget.TabLayout>
 
+    <TextView
+        android:id="@+id/judul"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ceritakan Masalah Anda"
+        android:paddingBottom="25px"
+        android:layout_gravity="center"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_marginTop="17dp"
+        android:layout_below="@+id/tabLayout"
+        android:layout_alignStart="@+id/textArea_information" />
+
     <EditText
         android:id="@+id/textArea_information"
         android:layout_width="340dp"
@@ -26,14 +38,15 @@
         android:scrollbarStyle="insideInset"
         android:scrollbars="vertical"
         android:lines="10"
+        android:hint="(Minimal 30 Kata)"
         android:background="@drawable/border"
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:scrollHorizontally="false"
         tools:layout_editor_absoluteY="50dp"
         tools:layout_editor_absoluteX="8dp"
-        android:layout_marginTop="37dp"
-        android:layout_below="@+id/tabLayout"
-        android:layout_centerHorizontal="true" />
+        android:layout_below="@+id/judul"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="17dp" />
 
 
     <Button
@@ -43,7 +56,7 @@
         android:gravity="center_vertical|center_horizontal"
         android:text="SUBMIT"
         android:textColor="#fff"
-        android:layout_marginTop="48dp"
         android:layout_below="@+id/textArea_information"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp" />
 </RelativeLayout>
